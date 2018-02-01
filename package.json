@@ -23,7 +23,7 @@
     "url": "https://github.com/garlicoin-project/garlicore-message.git"
   },
   "dependencies": {
-    "garlicore-lib": "garlicoin-project/garlicore-lib#segwit"
+    "garlicore-lib": "^0.1.0"
   },
   "devDependencies": {
     "garlicore-build": "garlicoin-project/garlicore-build",
