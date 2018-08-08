@@ -1,4 +1,4 @@
-var litecore = require('garlicore-lib');
+var litecore = require('tuxcore-lib');
 litecore.Message = require('./lib/message');
 
 module.exports = litecore.Message;
