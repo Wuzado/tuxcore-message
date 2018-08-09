@@ -1,6 +1,6 @@
 {
   "name": "tuxcore-message",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Tuxcoin Messages for Tuxcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
